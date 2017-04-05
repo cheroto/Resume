@@ -77,7 +77,7 @@ ol {
 }
 
 .BriefHistory {
-	position: absolute;
+	position: fixed;
 	float: right;
 	width: 23%;
 	border-style: solid;
