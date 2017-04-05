@@ -57,7 +57,8 @@ ul li {
 
 
 ul li:hover{
-	background-color: white;
+	background-color: Blue;
+	color: white;
 	font-weight: bold;
 }
 
