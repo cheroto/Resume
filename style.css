@@ -84,7 +84,7 @@ ol {
 	border-color: black;
 	text-align: center;
 	height: 400px;
-	border-radius: 10px;
+	border-radius: 5px;
 	background-color: white;
 	right: -300px;
 	box-shadow:10px 10px 5px #888888;
@@ -94,5 +94,20 @@ ol {
 .BriefHistory:hover{
 	transition: 1s;
 	right: -10px;
+}
+#test{
+	font-family: Lalezar, cursive;
+	letter-spacing: 0.2em;
+	position: relative;
+	transform: rotate(90deg);
+	float: left;
+	left: -100px;
+	top: 150px;
+
+}
+
+#test2{
+	margin-left: 15%;
+	float: right;
 }
 
